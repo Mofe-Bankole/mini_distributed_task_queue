@@ -1,1 +1,2 @@
-# mini_distributed_task_queue
+A Mini Distributed Task Queue built entirely on Rust
+
